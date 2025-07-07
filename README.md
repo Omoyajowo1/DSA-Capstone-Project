@@ -44,3 +44,10 @@ EDA involves exploring the dataset to give answers to the business questions suc
   13. Which categories have products with the highest discounts? 
   14. Identify the top 5 products in terms of rating and number of reviews combined.
 
+DATA VISIUALIZATION
+![AMAZON PORT 1](https://github.com/user-attachments/assets/dae0072b-2315-4e0b-8e44-1c27b8efc9e3)
+![AMA PORT 1](https://github.com/user-attachments/assets/53cadd5e-1f5c-4ef4-a77b-bce4af733acb)
+
+
+
+
