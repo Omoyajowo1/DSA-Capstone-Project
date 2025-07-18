@@ -48,6 +48,40 @@ DATA VISIUALIZATION
 ![AMAZON PORT 1](https://github.com/user-attachments/assets/dae0072b-2315-4e0b-8e44-1c27b8efc9e3)
 ![AMA PORT 1](https://github.com/user-attachments/assets/53cadd5e-1f5c-4ef4-a77b-bce4af733acb)
 
+After working on this made some adjustment and my final analysis is ready 
+
+<img width="1003" height="443" alt="DASH FINAL" src="https://github.com/user-attachments/assets/fc6ada76-446a-4cca-9a1f-b9f5f101331e" />
+
+BELOW ARE MY ANALYSIS
+
+* The average discount percentage of the categories
+  Computers&Accessories - 117.04%
+  Electronics - 105.76%
+  Home&Kitchen - 79.64%
+  HomeImprovement - 128.18%
+  OfficeProducts - 27.11%
+  Toys&Games  - 0.00%
+
+* The product with highest review is USBCable with 156 reviews
+* 432 products got above 50% discount
+* The total revenue generated from sales estimated to $99.474BN
+* The top 5 products in terms of ratings and reviews are:
+  In-Ear	- 21
+  Smartphones	- 49
+  SmartTelevisions	- 56
+  SmartWatches	- 45
+  USBCables	- 156
+
+
+
+
+
+
+
+
+
+
+
 
 
 
